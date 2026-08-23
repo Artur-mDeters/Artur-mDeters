@@ -2,9 +2,9 @@
 
 **`Tecnologia • Automação • Eletrônica • Desenvolvimento`**
 
-Me chamo **Artur Deters**, estudante de Ciência da Computação e Técnico em Informática formado pelo **IFFar** campus Frederico Westphalen.
+Me chamo **Artur Deters**, estudante de Ciência da Computação e Técnico em Informática formado pelo **IFFar**, Campus Frederico Westphalen.
 
-Atualmente também atuo como bolsista no **LEPEP Maker** no IFFar. Desenvolvendo projetos com impressão 3D, corte a laser e microcontroladores.
+Atualmente, também atuo como bolsista no **LEPEP Maker** do IFFar, desenvolvendo projetos envolvendo **impressão 3D, corte a laser, eletrônica e microcontroladores**.
 
 Gosto de desenvolver projetos envolvendo **software, eletrônica, automação, robótica, sistemas embarcados, Linux e fabricação digital**.
 
@@ -45,8 +45,8 @@ Gosto de desenvolver projetos envolvendo **software, eletrônica, automação, r
 ## 📊 GitHub
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" />
-  <img src="./profile/top-langs.svg" height="180" />
+  <img src="./profile/stats.svg" width="49%" />
+  <img src="./profile/top-langs.svg" width="49%" />
 </p>
 
 ---
